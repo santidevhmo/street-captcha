@@ -1,0 +1,32 @@
+<p align="center">
+  <img src="public/ReCaptchaLogo.svg" alt="ReCaptcha Logo" />
+</p>
+
+<p align="center">
+  Practice your captcha image skills with Google's Street View oddest captures as images
+</p>
+
+<br/>
+
+## Topics put into practice
+
+|                       |                       |                        |                       |
+|-----------------------|-----------------------|------------------------|-----------------------|
+| Dynamic Styling       | ES6 Modules           | DOM Manipulation       | CDN's                |
+| Vite                  | PNPM                  | State Management       | Responsiveness        |
+| Destructuring         | Template Literals     | Flexbox                | querySelectors        |
+| classList manipulation| CSS Animations | CSS Variables | Media Queries |
+
+## Website Link
+
+[https://your-url-here.com](https://your-url-here.com)
+
+<p align="center">
+  <img src="https://pub-ba41fea7f2464daeae1f59c520a07ecd.r2.dev/StreetCaptchaDemo.gif" alt="Website Demo" />
+</p>
+
+## Credits
+
+- [Neal.fun "Wonders of street view"](https://neal.fun/wonders-of-street-view/) for many of the pictures used.
+- [Scrimba's FullStack course](https://scrimba.com/fullstack-path-c0fullstack) for the guided learning.
+- [Icons8 Line Awesome](https://github.com/icons8/line-awesome)
