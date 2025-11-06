@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/ReCaptchaLogo.svg" alt="ReCaptcha Logo" />
+  <img src="public/ReCaptchaLogo.svg" alt="ReCaptcha Logo" width="100" height="100"/>
 </p>
 
 <p align="center">
@@ -7,6 +7,15 @@
 </p>
 
 <br/>
+
+## Website Link
+
+[https://your-url-here.com](https://your-url-here.com)
+
+<p align="center">
+  <img src="https://pub-ba41fea7f2464daeae1f59c520a07ecd.r2.dev/StreetCaptchaDemo.gif" alt="Website Demo" />
+</p>
+
 
 ## Topics put into practice
 
@@ -16,14 +25,6 @@
 | Vite                  | PNPM                  | State Management       | Responsiveness        |
 | Destructuring         | Template Literals     | Flexbox                | querySelectors        |
 | classList manipulation| CSS Animations | CSS Variables | Media Queries |
-
-## Website Link
-
-[https://your-url-here.com](https://your-url-here.com)
-
-<p align="center">
-  <img src="https://pub-ba41fea7f2464daeae1f59c520a07ecd.r2.dev/StreetCaptchaDemo.gif" alt="Website Demo" />
-</p>
 
 ## Credits
 
