@@ -28,6 +28,6 @@
 
 ## Credits
 
-- [Neal.fun "Wonders of street view"](https://neal.fun/wonders-of-street-view/) for many of the pictures used.
+- [Neal.fun "Wonders of street view"](https://neal.fun/wonders-of-street-view/) for many of the pictures used and creative inspiration.
 - [Scrimba's FullStack course](https://scrimba.com/fullstack-path-c0fullstack) for the guided learning.
 - [Icons8 Line Awesome](https://github.com/icons8/line-awesome)
