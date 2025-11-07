@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Practice your captcha image skills with Google's Street View oddest captures as images
+  Play Captcha with its images as Google's Street View oddest captures as images.
 </p>
 
 <br/>
